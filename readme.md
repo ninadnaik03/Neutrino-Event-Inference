@@ -1,4 +1,4 @@
-##ML-based Classification and Parameter Inference of Weakly Interacting Particle Events
+## ML-based Classification and Parameter Inference of Weakly Interacting Particle Events
 
 This repository presents a physics-aware machine learning pipeline for analyzing
 weakly interacting particle events using publicly released IceCube HESE
@@ -6,6 +6,9 @@ weakly interacting particle events using publicly released IceCube HESE
 classification by treating machine learning models as probabilistic inference
 tools to study how detector-level parameters govern event topology and
 uncertainty.
+
+<img src="results/figures/icecube_detector_how_does_icecube_work.png" width="700">
+
 
 ---
 
@@ -82,3 +85,4 @@ IceCube Collaboration:
 
 
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FPZNO2T&version=&q=&fileAccess=&fileTag=&fileSortField=&fileSortOrder=&tagPresort=true&folderPresort=true
+
